@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+resultados/*.jtl
+resultados/html_*/
